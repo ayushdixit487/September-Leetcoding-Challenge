@@ -1,0 +1,1 @@
+Hints :   Find each path, then transform that path to an integer in base 10.
